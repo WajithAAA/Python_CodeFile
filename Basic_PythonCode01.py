@@ -1,3 +1,4 @@
+#using for loop and printing name
 names = []
 names.append('wajiii')
 names.append('sharmii')
@@ -12,7 +13,7 @@ del names[4]
 print(names)
  
 
-#dictionary
+#add items into dictionary
 dic = {'name' :'wajiii', 'age': 22 }
 dic['name'] = 'shamri'
 dic['age'] = 22
