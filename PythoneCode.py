@@ -1,6 +1,9 @@
 #If statement using for tecket printing
 print("------WELCOME---------")
+
 name = input("What is your name ?")
+address = input("Enter your place")
+
 age = int(input ("what is your age ?"))
 
 if age > 50:
